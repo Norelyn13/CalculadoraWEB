@@ -5,4 +5,4 @@
 
 <hr/>
 
-![Calculadora]('./img/calculadora.png')
+![Calculadora](img/calculadora.png)
